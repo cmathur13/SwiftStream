@@ -1,4 +1,4 @@
-# Netflix Clone Application
+# Swift Strea, Application
 
 Welcome to the Netflix Clone application! This web application is built using React.js for the frontend, Node.js and Express for the backend, and MongoDB for database storage. The application fetches movie data from The Movie Database (TMDb) API and utilizes CRUD operations for user authentication.
 
